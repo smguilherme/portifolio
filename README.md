@@ -1,4 +1,4 @@
-Created portfolio for web development study purposes.
+Repository Created portfolio for web development study purposes.
 
 by Guilherme Seixas 
 
