@@ -1,11 +1,4 @@
-Tools used in the project:
-
-<ul>
-  <li>HTML</li>
-    <li>CSS</li>
-    <li>Flex-box</li>
-  </ul>
-
+Created portfolio for web development study purposes.
 
 by Guilherme Seixas 
 
